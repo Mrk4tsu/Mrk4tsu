@@ -3,18 +3,17 @@
 </p>
 
 <div align="center">
-  <h1>🌱Xin chào, mình là Nguyễn Đức Thắng</h2>
-  <h3>Hiện tại đang là sinh viên tại Trường Đại học Nha Trang</h5>
-  <h5>Mình đang theo học ngành Công nghệ thông tin, thiên hướng về Lập trình Web</h5>
-  <h3 align="right">Cảm ơn vì đã ghé thăm Profile😄</h5>
+  <h1>🌱Hello, I'am MrKatsu</h2>
+  <h3>Currently, I am a student at Nha Trang University, majoring in Information Technology with a focus on Web Programming.</h5>
+  <h3 align="right">Thank you for visiting my profile.😄</h5>
 </div>
 
 <div>
 
-  - ### 📫 Mục tiêu:
+  - ### 📫 My objective:
     
-  - ### 👯 Liên hệ:
-  - ### 💬 Ngôn ngữ:
+  - ### 👯 Contacts:
+  - ### 💬 Languages:
   
 </div>
 
