@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Mrk4tsu/Mrk4tsu/blob/main/assets/banner.gif" />
-</p>
-
 <div align="center">
   <h1>🌱Hello, I'am MrKatsu</h2>
   <h3>Currently, I am a student at Nha Trang University, majoring in Information Technology with a focus on Web Programming.</h5>
@@ -24,7 +20,9 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrK4tsu&langs_count=3)
 
 </div>
-
+<p align="center">
+  <img src="https://github.com/Mrk4tsu/Mrk4tsu/blob/main/assets/banner.gif" />
+</p>
 <!--
 **Mrk4tsu/Mrk4tsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
