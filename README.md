@@ -17,7 +17,7 @@
 <div align="center">
   
   ![pk9r327's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrK4tsu)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrK4tsu&langs_count=7)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrK4tsu&langs_count=10)
 
 </div>
 <p align="center">
