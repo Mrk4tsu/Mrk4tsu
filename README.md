@@ -31,7 +31,7 @@
 
 </div>
 <p align="center">
-  <img src="https://github.com/Mrk4tsu/Mrk4tsu/blob/main/assets/banner.gif" />
+  <img src="https://github.com/Mrk4tsu/Mrk4tsu/blob/main/assets/banner.gif" width="755"/>
 </p>
 <!--
 **Mrk4tsu/Mrk4tsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
