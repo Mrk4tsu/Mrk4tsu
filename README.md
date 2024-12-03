@@ -7,7 +7,13 @@
 <div>
 
   - ### 📫 My objective:
-    
+    <p>
+      My current goals are as follows:
+
+     - <b>Short-term:</b> I aim to become a backend web developer, focusing on building robust and scalable server-side solutions.
+     - <b>Medium-term:</b> I plan to expand my expertise to full-stack development, mastering both frontend and backend technologies.
+     - <b>Long-term:</b> I aspire to transition into game development, starting with Unity as a foundational tool. Over time, I hope to challenge myself by exploring other advanced game engines.
+    </p>
   - ### 👯 Contacts:
 <p align="center">
 <a href="https://fb.com/th.mrkatsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="th.mrkatsu" height="30" width="40" /></a>
