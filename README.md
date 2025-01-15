@@ -3,7 +3,6 @@
   <h3>Currently, I am a student at Nha Trang University, majoring in Information Technology with a focus on Web Programming.</h5>
   <h3 align="right">Thank you for visiting my profile.😄</h5>
 </div>
-
 <div>
 
   - ### 📫 My objective:
@@ -29,17 +28,25 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-  - ### 💬 Frameworks:
   
+  - ### 💬 Frameworks:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+</div>
 </div>
 
  ### 📊 My Github stats
 <div align="center">
-  
-  ![MrK4tsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrK4tsu)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrK4tsu&langs_count=3)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MrK4tsu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrK4tsu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 
 <p align="center">
   <img src="https://github.com/Mrk4tsu/Mrk4tsu/blob/main/assets/banner.gif" width="755"/>
