@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌱Hello, I'am MrKatsu</h2>
+  <h1>🌱Hello, I'am Katsu</h2>
   <h3>Currently, I am a student at Nha Trang University, majoring in Information Technology with a focus on Web Programming.</h5>
   <h3 align="right">Thank you for visiting my profile.😄</h5>
 </div>
