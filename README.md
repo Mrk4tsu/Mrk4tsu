@@ -41,6 +41,16 @@
 </div>
 </div>
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrK4tsu/MrK4tsu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrK4tsu/MrK4tsu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrK4tsu/MrK4tsu/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
  ### 📊 My Github stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrK4tsu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
@@ -52,12 +62,3 @@
   <img src="https://github.com/Mrk4tsu/Mrk4tsu/blob/main/assets/banner.gif" width="755"/>
 </p>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrK4tsu/MrK4tsu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrK4tsu/MrK4tsu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrK4tsu/MrK4tsu/output/pacman-contribution-graph.svg">
-</picture>
-
-###
