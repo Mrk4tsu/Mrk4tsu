@@ -54,13 +54,19 @@
 </picture>
 
  #### 📊 My Github stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrK4tsu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrK4tsu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/mrk4tsu/mrk4tsu/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/mrk4tsu/mrk4tsu/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 
 <p align="center">
   <img src="https://github.com/Mrk4tsu/Mrk4tsu/blob/main/assets/banner.gif" width="755"/>
 </p>
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:mrk4tsu?theme=sketch-1&padding=9&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
